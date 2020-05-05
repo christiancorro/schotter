@@ -1,0 +1,1 @@
+![strac](images/strac.png)
